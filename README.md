@@ -4,7 +4,7 @@ This is the camping microframework blog example using Sequel instead of ActiveRe
 
 Run rake -T for a task list.
 
-Set the RACK_ENV=debug or production to run the migrate tasks, or start the app.
+Set the RACK_ENV="debug" or production to run the migrate tasks, or start the app.
 
 rake app:debug will start the app in the foreground, with trace and debug enabled, you can modify the config/debug.yml to turn off trace or debug options if only keeping the process in the foreground but not having tons of output is desired.
 
