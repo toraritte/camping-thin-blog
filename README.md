@@ -13,10 +13,14 @@ I removed the Comment model since there was no controller/view code in the examp
 This code was hacked on pretty hard, so there's most likely issues somewhere, while being a simple example, there's a of changes that could easily cause the app to break.
 Feel free to post an issue or ask a question, I'll do my bexst to answer, but anything too complex would most likely be best asked on the respective mailing lists, IRC channels or Google Groups.
 
-#DB
+#Notes
 You will need to create at least the development_blog database with the blog user having rights.
 
-Adjust for your own needs.
+In the config dir, the yml files will need to have the change dir updated:
+
+    chdir: /path/to/app
+
+Adjust to your own needs.
 
 
 Help
