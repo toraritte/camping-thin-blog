@@ -12,7 +12,6 @@ end
 # Load hash of config 
 DB_CONF = Psych.load(File.read(File.join('config/database.yml')))[ENV['RACK_ENV']]
 
-# Decide if we use MongoMapper or sequel
 DB = Sequel.connect(DB_CONF)
 
 Sequel::Model.plugin :timestamps, update_on_create: true
