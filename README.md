@@ -21,18 +21,18 @@ Adjust for your own needs.
 
 Help
 =================
-##Camping
+###Camping
 [webpage] (http://camping.io/)
 [github] (https://github.com/camping/camping/)
 
-##Sequel
+###Sequel
 [webpage] (http://sequel.jeremyevans.net/)
 [github] (https://github.com/jeremyevans/sequel/)
 
-##Thin
+###Thin
 [webpage] (http://code.macournoyer.com/thin/)
 [github] (https://github.com/macournoyer/thin/)
 
-##RedCloth
+###RedCloth
 [webpage] (http://redcloth.org/)
 [github] (https://github.com/jgarber/redcloth/)
